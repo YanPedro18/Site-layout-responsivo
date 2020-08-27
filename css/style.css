@@ -1,0 +1,141 @@
+
+
+#home {
+    width: 100%;
+    height: 80vh;
+    background-image: url(../img/fundoroxo.jpg);
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+}
+
+.home-text {
+    position: relative;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%, -50%);
+    text-align: center;
+}
+
+.logo {
+
+    height: 44px;
+
+}
+
+a {
+    font-size: 18px;
+    margin: 1px 20px;
+    color: #fff !important;
+}
+
+
+.navbar-dark {
+  
+    background: #202020 !important;
+}
+.home1 {
+    font-size: 50px;
+    text-align: center;
+    color: #fff;
+    border: 3px solid rgb(255, 255, 253);
+    padding: 5px 5px 10px 5px;
+    margin: auto;
+    width: auto;
+    height: auto;
+}
+
+.imagem {
+    margin: auto;
+    width: 37vw;
+    height: auto;
+    min-width: 250px;
+    
+
+}
+
+.but1{
+    background: #974ada;
+}
+.banana {
+    padding-bottom: 80px;
+    background: #202020 ;
+}
+
+.laranja {
+    background-color: #2425D8;
+    width: 100%;
+    height: 400px;
+}
+
+
+.nav2 {
+    font-weight: bold;
+    transition-duration: 0.5s;
+    transition-timing-function: ease-in;
+    transition-property: all;
+}
+
+.nav2:hover {
+    background-color:#974ada;
+    animation-delay: 2s;
+}
+
+.cr1 {
+    background-image: url("../img/carrou1.jpg");
+    width: 100%;
+    height: 400px;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-color: #000;
+}
+
+.cr2 {
+    background-image: url("../img/carrou2.jpg");
+    width: 100%;
+    height: 400px;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-color: #CCB19E;
+}
+
+.cr3 {
+    background-image: url("../img/carrou3.jpg");
+    width: 100%;
+    height: 400px;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-color: #222;
+}
+
+.textocr {
+    font-family: "Bebas Neue";
+    font-size: 50px;
+    color: #974ada;
+    text-align: center;
+}
+
+.camada2 {
+    background: rgba(0, 0, 0, 0.4);
+    height: 100%;
+    padding-top: 100px;
+}
+
+.camada3 {
+    background: rgba(0, 0, 0, 0.7);
+    height: 100%;
+    padding-top: 140px;
+}
+
+.texto1 {
+
+    color: floralwhite;
+}
+
+.footer1 {
+    background: #222;
+}
+
+.bg-dark { 
+    background: #222;
+}
